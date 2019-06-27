@@ -1,5 +1,5 @@
 # Mosaicking
-Script to fill an irregular SAOImage ds9 polygon with regularly-spaced mosaic pointings
+mosaic.py is a script to fill an irregular SAOImage ds9 polygon with regularly-spaced mosaic pointings
 
 Key functions written by Taco at the SMA and adapted for use for the CMZoom Survey by Nimesh Patel
 
